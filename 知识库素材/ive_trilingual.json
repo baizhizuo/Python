@@ -1,0 +1,263 @@
+[
+    {
+        "id": 1,
+        "zh_q": "DSE要多少分才能报读IVE高级文凭？",
+        "zh_a": "本地生最低入学标准为5科DSE达到Level 2，中英文必须合格。如果DSE成绩未达标，可以先修读IVE基础文凭，读完衔接高级文凭；非本地生不使用DSE计分，凭高考、IB、A-Level独立申请。",
+        "cant_q": "DSE要幾多分先讀到IVE高級文憑？",
+        "cant_a": "本地生最低門檻係5科DSE達到Level 2，中文同英文兩科一定要合格。如果DSE成績唔夠，可以先讀IVE基礎文憑，讀完之後銜接高級文憑；非本地生唔使計DSE分，憑內地高考、IB、A-Level成績獨立申請。",
+        "en_q": "What DSE scores are required for admission to IVE Higher Diploma programmes?",
+        "en_a": "Local applicants need a minimum Level 2 in five DSE subjects including Chinese and English. Those with unsatisfactory DSE results may take a Foundation Diploma to progress to HD. Non-local applicants apply with Gaokao, IB or A-Level results instead of DSE scores."
+    },
+    {
+        "id": 2,
+        "zh_q": "没读过数学、生物，还能报IT或者医护类高级文凭吗？",
+        "zh_a": "IT、数据AI专业入学不强制高分数学，无生物不影响报读，但课程大量用到统计运算，零基础学习压力大；医护专业优先招收修过生物、化学的学生，完全没学生物录取概率极低。",
+        "cant_q": "冇讀數學、生物，仲可唔可以報IT或者醫護課程？",
+        "cant_a": "IT、數據AI入學唔強求數學高分，冇讀生物唔影響報，但課程好多統計計算，零基礎會好吃力；醫護優先收有讀生物、化學嘅學生，完全冇生物好難收。",
+        "en_q": "Can I apply for IT or healthcare programmes without studying Mathematics or Biology?",
+        "en_a": "High Math results are not mandatory for IT & Data AI intake, and Biology is not a prerequisite, but heavy statistical calculations make learning tough for beginners. Healthcare programmes prioritise applicants with Biology & Chemistry; admission chances are slim without Biology."
+    },
+    {
+        "id": 3,
+        "zh_q": "IVE高级文凭和副学士有什么区别，哪个升本科更容易？",
+        "zh_a": "IVE HD隶属VTC，两年制，重实操+强制行业实习，职业导向；副学士多由大学附属学院开办，偏重本科理论通识。两者均可TOP-UP升本，IVE校企资源更多，工科、IT、医护升本成功率更高。",
+        "cant_q": "IVE高級文憑同副學士有咩分別，邊個更容易升學士？",
+        "cant_a": "IVE HD屬VTC，兩年，重實習同行業操作，職業導向；副學士多數大學附屬，偏本科理論。兩樣都可以TOP-UP升學士，IVE企業合作多，IT、工程、醫護升學率更高。",
+        "en_q": "What is the difference between IVE Higher Diploma and Associate Degree, and which offers better articulation chances?",
+        "en_a": "IVE HD under VTC is 2-year practical training with mandatory industrial placements. Associate Degrees run by university colleges focus on general academic theories. Both support top-up bachelor pathways; IVE has stronger corporate links with higher progression rates for IT, engineering and healthcare."
+    },
+    {
+        "id": 4,
+        "zh_q": "中五读完不读中六，能直接报读两年制高级文凭吗？",
+        "zh_a": "不可以直接报HD。中五离校生可以先报读VTC青年学院或IVE基础文凭，达到要求后再升读高级文凭。",
+        "cant_q": "中五畢業唔讀中六，可唔可以直接報兩年制高級文憑？",
+        "cant_a": "唔可以直接報HD。中五離校生可以先報VTC青年學院或者IVE基礎文憑，達標之後先升高級文憑。",
+        "en_q": "Can Form 5 leavers enrol directly on 2-year Higher Diploma programmes?",
+        "en_a": "Direct entry to HD is unavailable for Form 5 graduates. They may enrol in VTC Youth College or IVE Foundation Diploma and progress to HD upon meeting requirements."
+    },
+    {
+        "id": 5,
+        "zh_q": "报读IVE全部专业都要面试吗，面试会考核什么内容？",
+        "zh_a": "设计、时装、航空维修、护理、幼教、酒店款待需要面试；IT、商科、建造工程一般不用。面试考察求学动机、学科基础、情景沟通，设计类需自备作品集。",
+        "cant_q": "報IVE所有課程都要面試？面試會考啲咩？",
+        "cant_a": "設計、時裝、飛機維修、護理、幼兒、酒店款待先要面試；IT、商科、建造一般唔使。面試睇讀書動機、學科常識、場景對話，設計要帶個人作品。",
+        "en_q": "Is an interview compulsory for all IVE programmes, and what will be assessed?",
+        "en_a": "Interviews are required for design, fashion, aircraft maintenance, nursing, early childhood and hospitality programmes. IT, business and construction streams usually waive interviews. Assessments include study motivation, basic subject knowledge and scenario communication; design applicants need portfolios."
+    },
+    {
+        "id": 6,
+        "zh_q": "完全没有编程基础，读数据AI高级文凭跟得上Python、R课程吗？",
+        "zh_a": "课程循序渐进，开学开设编程零基础辅导班，从零教学Python、R、SQL。中后期统计、机器学习模块需要多做实操练习，勤完成实验室作业就能跟上。",
+        "cant_q": "完全冇寫程式底，讀數據AI高級文憑跟唔跟到Python、R？",
+        "cant_a": "課程由淺入深，開學有零基礎編程班，由頭教Python、R、SQL。後期統計、機器學習要多做實驗練習，勤做功課就跟到。",
+        "en_q": "Can absolute beginners keep up with Python & R on the Data Science & AI HD?",
+        "en_a": "Programmes adopt a step-by-step curriculum with introductory coding workshops teaching Python, R and SQL from scratch. Extra lab practice is required for statistics and machine learning units to stay on track."
+    },
+    {
+        "id": 7,
+        "zh_q": "读IVE高级文凭都要实习吗，实习期间有没有津贴？",
+        "zh_a": "全部HD专业设有6–12个月强制行业实习。大部分合作企业发放实习津贴，政府机构津贴稳定，少量小型私营企业无薪酬。",
+        "cant_q": "讀所有IVE高級文憑都要實習？實習有冇津貼？",
+        "cant_a": "全部HD都有6至12個月強制行業實習。大部份合作公司會發實習津貼，公營機構津貼穩定，細間私營就可能冇人工。",
+        "en_q": "Is industrial placement mandatory for all programmes, and do interns receive allowances?",
+        "en_a": "All HD programmes include a compulsory 6–12 month industry placement. Most partner companies offer internship allowances with stable payments from public bodies; a small number of private SMEs provide no remuneration."
+    },
+    {
+        "id": 8,
+        "zh_q": "上课讲普通话、粤语还是英文，课本和考卷是什么语言？",
+        "zh_a": "课堂以粤语、英语为主，辅以普通话；教材、课件、作业、考试绝大多数为英文，IT、医护、工程全英文材料；小组讨论、课堂提问可使用中文。",
+        "cant_q": "上堂講普通話、粵語定英文？書同試卷係咩語言？",
+        "cant_a": "課堂主要粵語同英文，間中有普通話；教科書、功課、考試大部份英文，IT、醫護、工程全套英文；小組討論、發問可以講中文。",
+        "en_q": "What medium of instruction is used in class, and what language are textbooks and exams written in?",
+        "en_a": "Lessons are delivered mainly in Cantonese and English with Putonghua support. Textbooks, coursework and examinations are mostly in full English, especially for IT, healthcare and engineering; Chinese is allowed for group discussions and in-class questions."
+    },
+    {
+        "id": 9,
+        "zh_q": "入读IVE之后，能不能更换专业或者换到其他分校就读？",
+        "zh_a": "入学第一学年可申请校内转专业，需要成绩达标并通过院系审批，医护、AI热门专业竞争激烈；跨分校仅限同大类专业且有名额空缺，跨学科转校极少获批。",
+        "cant_q": "入咗IVE之後，可唔可以轉科或者轉去其他分校讀？",
+        "cant_a": "第一年可以申請校內轉科，成績要合格同過學系審批，醫護、AI熱門競爭好大；跨分校只可以轉同大類、仲要有空學額，跨科轉分校好難批。",
+        "en_q": "Can students switch programmes or transfer to another campus after enrolment?",
+        "en_a": "Internal programme transfers are permitted within Year 1 subject to academic results and departmental approval; popular healthcare and AI streams are highly competitive. Cross-campus transfers are only allowed within the same subject cluster with vacant places, cross-disciplinary transfers are rarely approved."
+    },
+    {
+        "id": 10,
+        "zh_q": "沙田IVE的数据AI专业有没有专属服务器和电脑机房？",
+        "zh_a": "沙田IVE配备独立AI机房、大数据实训设备、AI训练服务器，预装Python、R、SQL与机器学习框架；其余分校按学科配套专业实验室，课后均可开放使用。",
+        "cant_q": "沙田IVE數據AI課程有冇專屬伺服器同電腦房？",
+        "cant_a": "沙田IVE有獨立AI電腦室、大數據實習設備、AI訓練伺服器，預裝Python、R、SQL同機器學習工具；其他分校按科目設專用實驗室，放學都可以使用。",
+        "en_q": "Does Sha Tin IVE have dedicated servers and computer labs for Data Science & AI?",
+        "en_a": "Sha Tin IVE features exclusive AI labs, big data training hardware and AI training servers pre-installed with Python, R, SQL and machine learning frameworks. All other campuses offer subject-specific laboratories accessible after class hours."
+    },
+    {
+        "id": 11,
+        "zh_q": "读完IVE高级文凭能够升读哪些院校，衔接本科需要读几年？",
+        "zh_a": "本地可选理工、城大、浸大、HKMU、HKU SPACE等TOP-UP学位；海外可申请英国、澳洲、新加坡院校并豁免学分。绝大多数衔接课程1–2年即可取得完整学士学位。",
+        "cant_q": "讀完IVE HD可以升邊間大學？接學士要讀幾耐？",
+        "cant_a": "香港可以讀理大、城大、浸大、都會大學、港大專業進修等TOP-UP；海外英澳新加坡可豁免學分。大部份銜接課程讀1至2年就拎學士。",
+        "en_q": "Which universities accept HD graduates for top-up degrees, and how long does articulation take?",
+        "en_a": "Local top-up options include PolyU, CityU, HKBU, HKMU and HKU SPACE. UK, Australian and Singapore universities offer credit exemptions. Most articulation programmes take 1–2 years to complete a full bachelor’s degree."
+    },
+    {
+        "id": 12,
+        "zh_q": "2026年IVE数据AI毕业生入职薪资多少，能从事什么岗位？",
+        "zh_a": "2026市场起薪港币15000–22000，大数据、AI开发岗位薪资更高；就业包括数据分析师、程序员、AI助理工程师、网络运维、电商数据运营、IT支援等。",
+        "cant_q": "2026年IVE數據AI畢業人工有幾多？有咩工可以做？",
+        "cant_a": "2026市場起薪港幣15000至22000，大數據、AI開發人工更高；出路有數據分析、寫程式、AI工程助理、網絡維修、電商數據營運、IT支援等。",
+        "en_q": "What is the entry salary and career path for IVE Data AI graduates in 2026?",
+        "en_a": "2026 starting salaries range from HK$15,000 to HK$22,000 with higher pay for big data and AI development roles. Job roles include data analyst, programmer, AI junior engineer, network support, e-commerce data operation and IT helpdesk."
+    },
+    {
+        "id": 13,
+        "zh_q": "修读健康护理高级文凭，毕业后能直接成为注册护士吗？",
+        "zh_a": "IVE健康护理HD不等于注册护士资质。毕业生需要额外修读认可衔接课程并通过医护管理局执业考试，HD仅可从事辅助医护岗位。",
+        "cant_q": "讀健康護理HD，畢業可唔可以直接做註冊護士？",
+        "cant_a": "IVE健康護理HD唔等於註冊護士資格。畢業生要額外讀認可銜接課程同通過醫管局執業試，淨係HD只可以做輔助護理崗位。",
+        "en_q": "Can healthcare HD graduates work as registered nurses directly after graduation?",
+        "en_a": "The IVE Healthcare HD does not grant registered nurse status. Graduates must complete additional approved bridging training and pass the Nursing Council licensing exam; HD holders only qualify for auxiliary healthcare roles."
+    },
+    {
+        "id": 14,
+        "zh_q": "柴湾IVE创意媒体、时装设计毕业能进入广告、影视行业吗？",
+        "zh_a": "对口岗位充足：影视动画可做后期、3D建模、短视频策划；时装从事品牌设计、形象造型；广告行业负责平面、社交媒体视觉；VTC合作企业可直接转正。",
+        "cant_q": "柴灣IVE創意媒體、時裝設計畢業，可唔可以入廣告、影視行業？",
+        "cant_a": "對口工好多：影視動畫做後製、3D建模、短片策劃；時裝做品牌設計、形象造型；廣告做平面、社交媒體美術；VTC合作公司實習後可直接轉長工。",
+        "en_q": "What career paths are open for Chai Wan IVE design graduates in advertising and film?",
+        "en_a": "Abundant matching roles: film & animation graduates work in post-production, 3D modelling and short-video planning; fashion graduates join brand design and styling teams; media graduates handle graphic and social media visuals. Many secure full-time offers from VTC partner firms post-internship."
+    },
+    {
+        "id": 15,
+        "zh_q": "IVE开放日一般什么时候举办，参观和工作坊需要预约吗？",
+        "zh_a": "开放日集中每年9–11月DSE升学季，在校内举办。普通摊位、校园参观无需预约；AI、医护实操热门工作坊需要在VTC官网提前登记。",
+        "cant_q": "IVE開放日一般幾時搞？參觀同體驗班要唔要預約？",
+        "cant_a": "開放日多數每年9至11月DSE升學季，響分校校園舉行。普通攤位、參觀唔使預約；AI、護理體驗工作坊要早響VTC官網登記。",
+        "en_q": "When are IVE Open Days held, and is pre-booking required?",
+        "en_a": "Open Days run from September to November each year during the DSE admission season on campus grounds. General booth visits and campus tours require no booking, but popular AI and healthcare practical workshops need advance registration via the VTC website."
+    },
+    {
+        "id": 16,
+        "zh_q": "去开放日参观要带什么证件，校园里面有停车位吗？",
+        "zh_a": "建议携带身份证/学生证、纸笔，体验工作坊可自备U盘；校内车位数量少，优先教职工，访客推荐港铁、巴士出行。",
+        "cant_q": "去開放日要帶咩證件？校內有冇泊車位？",
+        "cant_a": "建議帶身份證/學生證、紙筆，想體驗工作坊可以自備USB手指；校內車位好少優先畀教職員，遊客搭港鐵巴士最方便。",
+        "en_q": "What documents should visitors bring to Open Days, and is on-campus parking available?",
+        "en_a": "ID or student card, pen and notebook are recommended; visitors may bring USB drives for workshop work. On-campus parking is limited and reserved for staff; public transport (MTR / buses) is advised."
+    },
+    {
+        "id": 17,
+        "zh_q": "沙田IVE开放日有没有Python、数据分析实操体验坊？",
+        "zh_a": "沙田专门设立数据AI体验区，可亲手编写简易Python、制作小型聊天机器人、实操基础数据分析；其他IT摊位设有编程小游戏体验。",
+        "cant_q": "沙田IVE開放日有冇Python、數據分析體驗工作坊？",
+        "cant_a": "沙田特設數據AI體驗區，可以親自寫簡單Python、整細機械人對話程式、做基礎數據分析；其他分校IT攤位有編程小遊戲。",
+        "en_q": "Are there hands-on Python and data analytics workshops at Sha Tin IVE Open Day?",
+        "en_a": "A dedicated Data AI zone at Sha Tin lets visitors test basic Python coding, build simple chatbots and practise fundamental data analysis. Other campuses offer mini coding games at IT booths."
+    },
+    {
+        "id": 18,
+        "zh_q": "家长可以一起进入校园参观吗，有没有专门面向家长的升学讲座？",
+        "zh_a": "家长可免费陪同入校，开放日设置家长专场讲座，讲解学费、资助、本地/非本地生政策、升学路径，解答成本与出路问题。",
+        "cant_q": "家長可唔可以一齊入學校參觀？有冇專門俾家長嘅升學講座？",
+        "cant_a": "家長免費陪同入場，開放日設家長專場，講學費、資助、本地同非本地生政策、升學路徑，解答開支同出路問題。",
+        "en_q": "May parents join campus tours, and are there parent-focused seminars?",
+        "en_a": "Parents may enter campus free of charge. Dedicated parent seminars cover tuition fees, financial aid, local / non-local student policies and progression pathways to address concerns about costs and career prospects."
+    },
+    {
+        "id": 19,
+        "zh_q": "哪些IVE分校提供学生宿舍，申请有什么优先条件？",
+        "zh_a": "上水、屯门、青衣设有校内宿舍；柴湾、观塘、沙田等市区分校无宿舍。床位优先分配本地资助生，非本地生名额极少，需要提早申请。",
+        "cant_q": "邊幾間IVE分校有學生宿舍？申請有咩優先規則？",
+        "cant_a": "上水、屯門、青衣有校內宿舍；柴灣、觀塘、沙田等市區分校唔設床位。宿位優先分俾本地資助生，非本地生名額極少，要早申請。",
+        "en_q": "Which IVE campuses offer student hostels and what are the allocation rules?",
+        "en_a": "Hostels are available at Sheung Shui, Tuen Mun and Tsing Yi only; urban campuses including Chai Wan, Kwun Tong and Sha Tin have no accommodation. Places are prioritised for local subsidised students with very limited quotas for non-locals requiring early applications."
+    },
+    {
+        "id": 20,
+        "zh_q": "本地和非本地生每年学费分别多少，分别能申请什么资助？",
+        "zh_a": "本地生HD每年HK$47,000，可申请FS助学金、低息贷款，低收入家庭可全额资助；非本地生每年HK$190,000–200,000，无政府资助，仅可申请国际生专项奖学金。",
+        "cant_q": "本地同非本地生每年學費分別幾多？可以申咩資助？",
+        "cant_a": "本地生HD每年HK$47,000，可申FS助學金、低息貸款，低收入家庭可全額資助；非本地生每年HK$190,000–200,000，冇政府補助，只可以申國際生獎學金。",
+        "en_q": "What are the annual tuition fees and financial aid options for local and non-local students?",
+        "en_a": "Local HD tuition is HK$47,000 per annum with SFAA grants, low-interest loans and full subsidies for low-income households. Non-local fees range HK$190,000–200,000 with no government aid, only exclusive international scholarships available."
+    },
+    {
+        "id": 21,
+        "zh_q": "校内学生会、兴趣社团、专业比赛丰富吗？",
+        "zh_a": "每间分校设有学生会与数十个兴趣学会；定期举办全港VTC赛事，包括AI编程、时装秀、机械、烘焙竞赛，获奖可用于升学与奖学金评审加分。",
+        "cant_q": "校內學生會、興趣學會、專業比賽多唔多？",
+        "cant_a": "每間分校有學生會同幾十個興趣會；定期搞全港VTC比賽，AI編程、時裝匯演、機械、烘焙賽，得獎升學同獎學金會加分。",
+        "en_q": "Are there abundant student activities and inter-campus competitions at IVE?",
+        "en_a": "Every campus runs a student union and dozens of hobby societies. Annual territory-wide VTC contests cover AI coding, fashion shows, mechanical engineering and baking; awards carry extra merits for articulation and scholarship assessment."
+    },
+    {
+        "id": 22,
+        "zh_q": "图书馆和电脑机房平日、周末是否对在读学生开放？",
+        "zh_a": "全分校标配图书馆、24小时电脑机房、食堂；在读学生平日、周末均可使用，开放日全部设施对外开放参观。",
+        "cant_q": "圖書館、電腦室放學同週末開唔開放？",
+        "cant_a": "所有分校都有圖書館、24小時電腦房、食堂；在校生平日、週末都可以使用，開放日全部設施免費參觀。",
+        "en_q": "Are libraries and computer labs accessible on weekdays and weekends?",
+        "en_a": "All campuses are equipped with libraries, 24-hour computer labs and canteens, open to enrolled students every day including weekends. All facilities are accessible to visitors during Open Days."
+    },
+    {
+        "id": 23,
+        "zh_q": "持有香港永久居民身份，读高级文凭一年学费多少，能申请资助吗？",
+        "zh_a": "永居属于本地资助生，2026/27学年学费HK$47,000/年；家庭收入达标可申请政府助学金、低息贷款，同时申报各类VTC奖学金减免学费。",
+        "cant_q": "有香港永久居民身份，讀高級文憑一年學費幾多？有冇資助？",
+        "cant_a": "永居屬本地資助生，2026/27學年學費HK$47,000一年；家庭收入合資格可申政府助學金、低息貸款，仲可以報VTC各類獎學金減學費。",
+        "en_q": "What is the annual tuition and subsidy policy for Hong Kong Permanent Residents taking HD programmes?",
+        "en_a": "Permanent Residents qualify as local subsidised students paying HK$47,000 per annum for 2026/27. Eligible households may apply for government grants, low-interest loans and VTC scholarships for tuition waivers."
+    },
+    {
+        "id": 24,
+        "zh_q": "父母优才签证，本人17岁来港拿受养人签，属于本地生吗？",
+        "zh_a": "18岁前首次获批优才/高才受养签证，且满足居港年限，归类本地资助生；学费、实习、升学全部福利等同永居，无需持有永久居民证。",
+        "cant_q": "父母係優才簽，自己17歲來港拎受養簽，算唔算本地生？",
+        "cant_a": "18歲之前第一次批優才/高才受養簽，兼符合居港年期，屬本地資助生；學費、實習、升學全部福利同永居一樣，唔使拎永久居民證。",
+        "en_q": "Am I classified as a local student if I arrived at 17 under my parent’s QMAS dependent visa?",
+        "en_a": "Dependents whose QMAS / TTP visas were first issued before turning 18 and meet residency criteria are local subsidised students with identical tuition, placement and progression benefits regardless of permanent ID status."
+    },
+    {
+        "id": 25,
+        "zh_q": "内地学生读完IVE高级文凭，毕业后可以留在香港就业吗？",
+        "zh_a": "顺利毕业可申请IANG非本地毕业生留港签证，有效期2–6年，签证期内可自由更换雇主、全职工作。",
+        "cant_q": "內地學生讀完IVE高級文憑，畢業可唔可以留香港搵工？",
+        "cant_a": "順利畢業可以申IANG非本地畢業生留港簽，有效期2至6年，簽證期間自由轉工、做全職。",
+        "en_q": "Can Mainland non-local graduates stay and work in Hong Kong after IVE HD?",
+        "en_a": "Graduates may apply for the IANG visa valid for 2–6 years, allowing unrestricted full-time employment and employer switching within the visa period."
+    },
+    {
+        "id": 26,
+        "zh_q": "香港本地中六学生通过什么途径申请IVE高级文凭？",
+        "zh_a": "应届中六生走VTC中央联招，DSE放榜填报志愿，系统按分数分配分校专业；未达联招门槛可单独向分校申请。",
+        "cant_q": "香港本地中六生透過咩渠道報IVE高級文憑？",
+        "cant_a": "應屆中六走VTC中央聯招，DSE放榜填志願，系統按分數分配分校專業；唔夠聯招門檻可以直接向分校申請。",
+        "en_q": "What application channel do local Form 6 students use for IVE HD?",
+        "en_a": "Current Form 6 applicants apply via the VTC Central Admission Scheme after DSE release, with campus and programmes allocated by score. Those failing scheme thresholds may submit direct campus applications."
+    },
+    {
+        "id": 27,
+        "zh_q": "内地高考生申请IVE完整流程是什么？",
+        "zh_a": "1.注册VTC内地生申请系统；2.上传高中毕业证、高考成绩单、护照/身份证；3.缴纳HK600申请费；4.等候线上笔试或面试；5.录取后缴留位费，院校协助办理学生签证。",
+        "cant_q": "內地高考生申請IVE完整步驟係點？",
+        "cant_a": "1.登記VTC內地生申請系統；2.上載高中畢業證、高考成績單、護照/身份證；3.交HK600申請費；4.等網上筆試或者面試；5.取錄交留位費，學校協助辦學生簽證。",
+        "en_q": "What is the full application procedure for Mainland Gaokao applicants?",
+        "en_a": "1. Register on VTC Non-local Admission Portal; 2. Upload high school diploma, Gaokao transcript, ID / passport; 3. Pay HK$600 application fee; 4. Attend online written test or interview upon invitation; 5. Settle acceptance deposit after offer, with institutional support for student visa processing."
+    },
+    {
+        "id": 28,
+        "zh_q": "DSE重读生申请IVE会不会降分或者额外加分？",
+        "zh_a": "重读生录取标准和应届中六完全一致，无降分、加分政策，同样要求5科DSE Level 2方可报HD。",
+        "cant_q": "DSE重讀生申IVE有冇減分或者額外加分優待？",
+        "cant_a": "重讀生收生標準同應屆中六完全一樣，唔會減分、加分，同樣要5科DSE Level 2先可以報HD。",
+        "en_q": "Do DSE repeaters receive bonus points or lower entry thresholds for IVE?",
+        "en_a": "Repeaters follow identical entry criteria as fresh Form 6 graduates with no score concessions; Level 2 across five DSE subjects remains mandatory for HD entry."
+    },
+    {
+        "id": 29,
+        "zh_q": "IVE高级文凭在内地教育部能做学历认证吗？",
+        "zh_a": "VTC颁发的高级文凭受内地教育部承认，完成留学认证后可在内地考研、入职各类企业。",
+        "cant_q": "IVE高級文憑大陸教育部認唔認證？",
+        "cant_a": "VTC頒發高級文憑獲內地教育部認可，做完留學學歷認證之後，可以返大陸考研究生、入各類公司。",
+        "en_q": "Is the IVE Higher Diploma recognised by Mainland China’s Ministry of Education?",
+        "en_a": "VTC Higher Diplomas are recognised by the Mainland Ministry of Education. After overseas academic verification, graduates qualify for postgraduate study and corporate employment in the Mainland."
+    }
+]
